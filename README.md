@@ -1,4 +1,5 @@
-# From Uncertain Sensing to Stealthy Attacks: Safety, Security, and Automotive Standards for Autonomous Vehicles
+# Safety and Security of Autonomous Vehicles: Risk-Aware Control, Adversarial Threats, and Automotive Standards
+
 
 **Proposed half-day tutorial · IEEE Intelligent Vehicles Symposium (IV 2027)**  
 **Duration:** 3.5 hours (210 minutes) · **Status:** Proposed; subject to conference acceptance and scheduling  
