@@ -1,4 +1,4 @@
-# Safety Meets Security: Toward Resilient and Trustworthy Autonomous Vehicles
+# From Uncertain Sensing to Stealthy Attacks: Safety, Security, and Automotive Standards for Autonomous Vehicles
 
 **Proposed half-day tutorial · IEEE Intelligent Vehicles Symposium (IV 2027)**  
 **Duration:** 3.5 hours (210 minutes) · **Status:** Proposed; subject to conference acceptance and scheduling  
@@ -34,9 +34,9 @@ Camera, LiDAR, and V2X sensing are integrated using Wasserstein-barycenter fusio
 ### 2. Security under adversarial manipulation
 
 **Model-Free Generative Stealthy Attacks on Safety-Critical Vehicle Cyber-Physical Systems**  
-Q. Mairaj ud din, S. G. Bhatti, and Q. Ahmed, *arXiv preprint* (2026).  
+Q. Mairaj ud din, S. G. Bhatti, and Q. Ahmed (2026).  
 This case study examines generative measurement manipulation, tradeoffs between attacker impact and stealth, intrusion-detection limitations, and vehicle cyber-physical system evaluation, including hardware-in-the-loop results.  
-[Read the preprint](https://arxiv.org/abs/2610.31864)
+[Read the research paper](https://arxiv.org/abs/2610.31864)
 
 **Supplementary example:** N. U. Javed, Y. Singh, and Q. Ahmed, “Vehicle Localization in GPS-Denied Scenarios Using Arc-Length-Based Map Matching,” *IEEE Transactions on Intelligent Transportation Systems* (2026). This addresses localization under degraded GPS availability—not a demonstrated defense against GPS spoofing. [Read the paper](https://doi.org/10.1109/TITS.2025.3648744).
 
@@ -51,7 +51,7 @@ This case study examines generative measurement manipulation, tradeoffs between 
 | 01:30–01:55 | Cyber-physical security foundations: threats, residuals, intrusion detection |
 | 01:55–02:30 | Case study 2: model-free stealthy attacks in vehicle CPS |
 | 02:30–02:55 | Automotive safety and cybersecurity standards |
-| 02:55–03:15 | Interactive integrated safety–security assessment |
+| 02:55–03:15 | Interactive comparison: uncertain sensing versus intentional attacks |
 | 03:15–03:30 | Open challenges, early-career Q&A, and closing discussion |
 
 *Final date, session times, venue, and registration instructions will be determined by IEEE IV 2027 if accepted.*
@@ -80,7 +80,7 @@ Co-organizer and instructor · [bhatti.39@osu.edu](mailto:bhatti.39@osu.edu) · 
 
 ## Resources and updates
 
-Tutorial slides, worked examples, recordings (if permitted), and relevant code will be shared here when available and when permissions allow. The tutorial is proposed as an in-person event; any remote participation will depend on conference arrangements.
+The organizers plan to add selected teaching slides, explanatory diagrams, and links to publicly available research resources after the tutorial. The event is planned to be in person; live remote participation is not planned.
 
 For inquiries: **[ahmed.358@osu.edu](mailto:ahmed.358@osu.edu)**.
 
